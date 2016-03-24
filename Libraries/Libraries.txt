@@ -1,0 +1,7 @@
+Backups of the libraries needed for the project have been saved here, 
+but you should consider getting the latest versions from the following 
+locations:
+
+DHT Sensor: https://github.com/adafruit/DHT-sensor-library
+Time:       http://www.pjrc.com/teensy/td_libs_Time.html
+Time Alarm: http://www.pjrc.com/teensy/td_libs_TimeAlarms.html
